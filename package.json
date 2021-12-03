@@ -1,0 +1,22 @@
+{
+  "name": "xlsxbuilderforgh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "xlsxBuilder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShangxingSun/xlsxBuilderForGH.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShangxingSun/xlsxBuilderForGH/issues"
+  },
+  "homepage": "https://github.com/ShangxingSun/xlsxBuilderForGH#readme",
+  "dependencies": {
+    "node-xlsx": "^0.17.2"
+  }
+}
