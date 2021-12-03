@@ -1,4 +1,4 @@
 # xlsxBuilderForGH
-## A small project for auto format weekl report
+## A small project for auto format weekly report
 
-start with comment `node xlsxBuilder.js [report input name]`
+start with command `node xlsxBuilder.js [report input name]`
